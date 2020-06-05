@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440176353917",
+    "firebase_url": "https://style-optics.firebaseio.com",
+    "project_id": "style-optics",
+    "storage_bucket": "style-optics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440176353917:android:28bd9e1b2ad11c048c8714",
+        "android_client_info": {
+          "package_name": "com.example.styleoptics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440176353917-oqffi7hmqrics505vi99450aple72pc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjE9U0Xoe0v85y1_IG9rMSEGk6RYLNa4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440176353917-oqffi7hmqrics505vi99450aple72pc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
